@@ -12,7 +12,7 @@ import {
   StackNavigation,
 } from '@exponent/ex-navigation';
 import {
-  FontAwesome,
+  FontAwesome
 } from '@exponent/vector-icons';
 
 import Router from './navigation/Router';
